@@ -1,19 +1,19 @@
-Hi 👋 My name is Rodrigues Neto
+Olá 👋 Me chamo Rodrigues Neto
 ==========================
 
-Web Developer
+Desenvolvedor Web
 -----------------------------
 
-I'm a 27 year old developer. I love to code and learn about web development. My main focus is to improve and learn new back-end development skills every day.
+Sou desenvolvedor e tenho 27 anos de idade, amo "codar" e aprender sobre desenvolvimento web. Meu foco é aprender e melhorar minhas habilidades com back-end, dia por dia.
 
-I have a degree in [System Analysis and Development](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) at [Estacio de Sá](https://estacio.br/a-estacio/sobre-a-estacio) and I'm looking for opportunities.
+Sou graduado em [Analise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) na [Estacio de Sá](https://estacio.br/a-estacio/sobre-a-estacio) e estou procurando por novos desafios.
 
-* 🌍  I'm based in Fortaleza, Brazil
-* ✉️  You can contact me at [contato@frodriguesmneto.com.br](mailto:contato@frodriguesmneto.com.br)
-* 🚀  I am currently looking for opportunities.
-* 🧠  I'm learning Javascript and PHP programming language.
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* 🏖️  I love beaches.
+* 🌍  Sou de Fortaleza, Brasil.
+* ✉️  Pode entrar em contato em [contato@frodriguesmneto.com.br](mailto:contato@frodriguesmneto.com.br)
+* 🚀  Estou procurando por novas oportunidades e desafios.
+* 🧠  Estou estudando PHP e Javascript.
+* 🤝  Estu aberto para novos projetos, que facilitam e ajudam a vida das pessoas.
+* 🏖️  Amo praias!
 
 ### Skills
 
