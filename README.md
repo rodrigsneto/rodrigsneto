@@ -13,6 +13,7 @@ I have a degree in [System Analysis and Development](https://estacio.br/cursos/g
 * 🚀  I am currently looking for opportunities.
 * 🧠  I'm learning Javascript and PHP programming language.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+* 🏖️  I love beaches.
 
 ### Skills
 
