@@ -4,9 +4,11 @@ Olá 👋 Me chamo Rodrigues Neto
 Desenvolvedor Web
 -----------------------------
 
-Sou desenvolvedor e tenho 27 anos de idade, amo "codar" e aprender sobre desenvolvimento web. Meu foco é aprender e melhorar minhas habilidades com back-end, dia por dia.
+Sou desenvolvedor em busca da primeiro trabalho como programador. Meu foco é aprender e melhorar minhas habilidades, dia por dia.
 
 Sou graduado em [Analise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) na [Estacio de Sá](https://estacio.br/a-estacio/sobre-a-estacio) e estou procurando por novos desafios.
+
+Sou monitor de aula no [Curso de FULLSTACK](https://digitalcollege.com.br/formacao-full-stack) na [Digital College](https://digitalcollege.com.br)
 
 * 🌍  Sou de Fortaleza, Brasil.
 * ✉️  Pode entrar em contato em [contato@frodriguesmneto.com.br](mailto:contato@frodriguesmneto.com.br)
