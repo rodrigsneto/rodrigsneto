@@ -11,7 +11,7 @@ Sou graduado em [Analise e Desenvolvimento de Sistemas](https://estacio.br/curso
 Sou monitor de aula no [Curso de FULLSTACK](https://digitalcollege.com.br/formacao-full-stack) na [Digital College](https://digitalcollege.com.br)
 
 * 🌍  Sou de Fortaleza, Brasil.
-* ✉️  Pode entrar em contato em [contact@rodrigsneto.com](mailto:contact@rodrigsneto.com)
+* ✉️  Pode entrar em contato em [contato@rodrigsneto.com](mailto:contato@rodrigsneto.com)
 * 🚀  Estou procurando por novas oportunidades e desafios.
 * 🧠  Estou estudando PHP e Javascript.
 * 🤝  Estou aberto para novos projetos, que facilitam e ajudam a vida das pessoas.
