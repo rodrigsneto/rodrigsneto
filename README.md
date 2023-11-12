@@ -25,6 +25,8 @@ Sou graduado em [Analise e Desenvolvimento de Sistemas](https://estacio.br/curso
 <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="36" height="36" alt="Typescript" /></a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://br.wordpress.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" height="36" alt="Wordpress" /></a>
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/GIT" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="GIT" /></a>
 <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" width="36" alt="Trello" /></a>
