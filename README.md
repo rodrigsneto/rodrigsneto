@@ -9,7 +9,7 @@ Sou desenvolvedor em busca de experiência. Meu foco é aprender e melhorar minh
 Sou graduado em [Analise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) na [Estacio de Sá](https://estacio.br/a-estacio/sobre-a-estacio) e atualmente sou monitor de aula no [Curso de FULLSTACK](https://digitalcollege.com.br/formacao-full-stack) na [Digital College](https://digitalcollege.com.br)
 
 * 🌍  Sou de Fortaleza, Brasil.
-* ✉️  Pode entrar em contato em [contato@rodrigsneto.com](mailto:contato@rodrigsneto.com)
+* ✉️  Pode entrar em contato em [contact@rodrigsneto.com](mailto:contact@rodrigsneto.com) ou por meu [linkedin](https://www.linkedin.com/in/rodrigsneto/)
 * 🚀  Estou procurando por desafios e novas oportunidades, mesmo que seja em uma linguagem ou ferramenta que ainda não tive contato.
 * 🤝  Estou aberto para novos projetos, que facilitam e ajudam a vida das pessoas.
 
