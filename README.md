@@ -4,14 +4,15 @@ Olá 👋 Me chamo Rodrigues Neto
 Desenvolvedor Web
 -----------------------------
 
-Sou desenvolvedor em busca de experiência. Meu foco é aprender e melhorar minhas habilidades, dia após dia.
+Sou desenvolvedor Web apaixonado por TI e resoluções de problemas. 
+Meu foco maior é além de ser um ótimo "resolvedor de problemas" e principalmente ser um gestor na minha área.
 
-Sou graduado em [Analise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) na [Estacio de Sá](https://estacio.br/a-estacio/sobre-a-estacio) e atualmente sou monitor de aula no [Curso de FULLSTACK](https://digitalcollege.com.br/formacao-full-stack) na [Digital College](https://digitalcollege.com.br)
+Sou graduado em [Analise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) na [Estacio de Sá](https://estacio.br/a-estacio/sobre-a-estacio).
 
 * 🌍  Sou de Fortaleza, Brasil.
 * ✉️  Pode entrar em contato em [contact@rodrigsneto.com](mailto:contact@rodrigsneto.com) ou por meu [linkedin](https://www.linkedin.com/in/rodrigsneto/)
-* 🚀  Estou procurando por desafios e novas oportunidades, mesmo que seja em uma linguagem ou ferramenta que ainda não tive contato.
-* 🤝  Estou aberto para novos projetos, que facilitam e ajudam a vida das pessoas.
+
+Tenho uma vasta experiencia em Informática e Redes de Computadores, e migrei para Desenvolvimento, consegui trazer muitas habilidades para esta área 
 
 ### Skills
 
